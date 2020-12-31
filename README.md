@@ -1,2 +1,2 @@
-# schoobill
-schoobill startup project
+# schoolbill
+schoolbill startup project
